@@ -8,3 +8,4 @@ A matemática que eu fiz para criptografar a string é um das mais simples, na q
 char Chave[2] = {'a', 4}; //Coloque quantas chaves quiser
 ```
 Quanto mais chaves mais difícil fica a descriptografia.
+[![Watch the video]()](https://github.com/andreyquerino/CriptografiaXor/blob/main/video/CriptXor.mp4)
