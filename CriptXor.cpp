@@ -14,7 +14,7 @@ void Decrypter(char* cripto) {
 
 int main() {
     setlocale(LC_ALL, "Portuguese");
-    char texto[1000];
+    char texto[] = "";
     int  opcoes;
     while (opcoes != 0) {
         system("cls");
