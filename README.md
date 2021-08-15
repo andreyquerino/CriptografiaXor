@@ -5,6 +5,6 @@ XOR é o tipo mais básico de criptografia usado há muito tempo, mas ainda é p
 A matemática que eu fiz para criptografar a string é um das mais simples, na qual, pode-se usar quantas chaves quiser tanto quanto um inteiro ou uma string, veja nessa linha:
 
 ```c++
-    char Chave[2] = {'a', 4}; //Coloque quantas chaves quiser
+char Chave[2] = {'a', 4}; //Coloque quantas chaves quiser
 ```
 Quanto mais chaves mais difícil fica a descriptografia.
